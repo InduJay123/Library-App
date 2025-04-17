@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "261671791417",
+    "project_id": "awesomeplace-40644",
+    "storage_bucket": "awesomeplace-40644.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261671791417:android:111258629d2a51aa6196e8",
+        "android_client_info": {
+          "package_name": "com.example.awesome_places"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52uGVCe76O0F172uO4zMzu5sgXQ4NQEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261671791417:android:95abb1e5675265316196e8",
+        "android_client_info": {
+          "package_name": "com.example.awsome_place"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52uGVCe76O0F172uO4zMzu5sgXQ4NQEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261671791417:android:86c46f2b77d5432b6196e8",
+        "android_client_info": {
+          "package_name": "com.example.workout_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52uGVCe76O0F172uO4zMzu5sgXQ4NQEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
